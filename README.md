@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto tem como finalidade colocar em prática os conceitos de display grid, ele foi elaborado na aula do programa Explorer da Rocketseat.
 
-- [Página](https://igorsilvamedeiros.github.io/Atelier/)
+- [Página](https://igorsilvam.github.io/Atelier/)
 
 ## 🔖 Layout
 
